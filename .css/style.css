@@ -1,5 +1,7 @@
 @charset "UTF-8";
-body {}
+body {
+    width: 100%;
+}
 
 .svg_logo {
     width: 14pc;
